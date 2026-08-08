@@ -38,37 +38,34 @@
 
 
 </div>
-<h6>Core Skills & Frameworks </h6>
+<h2>Core Skills & Frameworks </h2>
 <div>
-<h5>AI & ML</h5>
-<h6>
+<h3>AI & ML</h3>
+<h4>
   Deep Learning:
-</h6>
+</h4>
 
 <p>
   ANN, CNN, Transformers
  
 </p>
-<h6>
+<h4>
   Machine Learning:
-</h6>
+</h4>
 
 <p>
   Regression, Random Forests, Retrieval Augmented Generation (RAG), LLM  
 </p>
 
-<h6>
+<h4>
   LLMs & NLP:
-</h6>
+</h4>
 
 <p>
   Retrieval Augmented Generation (RAG), TF-IDF
 </p>
-  
-
-  
-  
 </div>
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) 
