@@ -1,5 +1,8 @@
 <h1 align="center">MARIA ZEB </h1>
+<h3>
+  Machine Learning · Deep Learning · Generative AI
 <h4>
+***
   CS'28 at FAST NUCES, Lahore
 </h4>
 
