@@ -54,7 +54,7 @@
 </h4>
 
 <p>
-  Regression, Random Forests, Retrieval Augmented Generation (RAG), LLM  
+  Linear Regression, Random Forests, Naive Bayes, Logistic Regression
 </p>
 
 <h4>
@@ -65,7 +65,7 @@
   Retrieval Augmented Generation (RAG), TF-IDF
 </p>
 </div>
-
+---
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) 
