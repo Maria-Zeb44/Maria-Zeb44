@@ -40,20 +40,20 @@
 
 ### AI & ML
 
-**Deep Learning:**<br>
+***Deep Learning:*** <br>
 ANN, CNN, Transformers
 
-**Machine Learning:**
+***Machine Learning:*** <br>
 Supervised: Regression, Random Forests<br>
 Unsupervised: Clustering (K-Means, Hierarchical)
 
-**LLMs & NLP:**
+***LLMs & NLP:*** <br>
 Retrieval Augmented Generation (RAG), TF-IDF, Word Embeddings, Transformers
 
-**Computer Vision:**
+***Computer Vision:*** <br>
 Image Classification
 
-**Data Science:**
+***Data Science:*** <br>
 Data Cleaning, EDA, Model Evaluation
 
 ---
