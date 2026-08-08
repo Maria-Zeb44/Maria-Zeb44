@@ -38,7 +38,7 @@
 
 ## 🧠 Core Skills & Frameworks
 
-### AI & ML
+
 
 ***Deep Learning:*** <br>
 ANN, CNN, Transformers
