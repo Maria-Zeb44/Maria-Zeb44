@@ -1,4 +1,4 @@
-<h1 align="center">📈 MARIA ZEB's Dev Metrics</h1>
+<h1 align="center">MARIA ZEB </h1>
 
 <p align="center">
   I'm exploring Machine Learning, Deep Learning, and Generative AI through hands-on projects. From training neural networks and building RAG applications to experimenting with LLMs, this space documents my learning journey — the successes, the failures, and everything in between. Feel free to explore, learn, and connect.
