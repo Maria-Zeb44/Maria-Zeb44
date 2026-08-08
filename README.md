@@ -1,28 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maria Zeb
-==================================================================================================================================
+<h1 align="center">📈 MARIA ZEB's Dev Metrics</h1>
 
-AI · Machine Learning · Deep Learning · Generative AI
------------------------------------------------------
-
-I'm exploring Machine Learning, Deep Learning, and Generative AI through hands-on projects. From training neural networks and building RAG applications to experimenting with LLMs, this space documents my learning journey — the successes, the failures, and everything in between. Feel free to explore, learn, and connect.
-
-* ✉️  You can contact me at [mariazeb71@gmail.com](mailto:mariazeb71@gmail.com)
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Maria-Zeb44&color=brightgreen&style=flat-square&label=Profile+Views)
 </p>
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://www.github.com/Maria-Zeb44" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/maria-zeb-509209352" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maria-Zeb44&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<b>My GitHub Stats</b>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maria-Zeb44&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/Maria-Zeb44"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-Zeb44&stroke=10b981&background=000000&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Zeb44&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<a href="https://github.com/Maria-Zeb44" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Zeb44&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
-<b>Top Repositories</b>
+## 📅 Contribution Activity
 
-<div width="100%" align="center"><a href="https://github.com/Maria-Zeb44/RAG-GenITeam_internship" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maria-Zeb44&repo=RAG-GenITeam_internship&title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Maria-Zeb44/Tiny_LLM-GenITeam_internship " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maria-Zeb44&repo=Tiny_LLM-GenITeam_internship &title_color=ffffff&text_color=10b981&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maria-Zeb44&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/Maria-Zeb44)
+
+</div>
+
+## 🛠️ Built With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![OS](https://img.shields.io/badge/OS-333?style=for-the-badge&logo=os&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=for-the-badge&logo=mssql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-333?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-333?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-333?style=for-the-badge&logo=jupyternotebook&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-333?style=for-the-badge&logo=matplotlib&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-333?style=for-the-badge&logo=clustering&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Relational Databases](https://img.shields.io/badge/Relational%20Databases-333?style=for-the-badge&logo=relationaldatabases&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-333?style=for-the-badge&logo=antigravity&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-333?style=for-the-badge&logo=replit&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu&logoColor=white) ![pytorch](https://img.shields.io/badge/pytorch-333?style=for-the-badge&logo=pytorch&logoColor=white) ![ML](https://img.shields.io/badge/ML-333?style=for-the-badge&logo=ml&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-333?style=for-the-badge&logo=deeplearning&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-333?style=for-the-badge&logo=rag&logoColor=white)
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariazeb71@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-zeb-509209352) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Zeb44)
+
+</div>
