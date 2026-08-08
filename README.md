@@ -36,6 +36,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maria-Zeb44&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/Maria-Zeb44)
 
+###
 
 </div>
 <h2>Core Skills & Frameworks </h2>
@@ -65,7 +66,9 @@
   Retrieval Augmented Generation (RAG), TF-IDF
 </p>
 </div>
----
+
+###
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) 
