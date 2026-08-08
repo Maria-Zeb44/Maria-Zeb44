@@ -38,14 +38,23 @@
 
 ## 🧠 Core Skills & Frameworks
 
+### AI & ML
+
 **Deep Learning:**
 ANN, CNN, Transformers
 
 **Machine Learning:**
-Regression, Random Forests, Clustering (K-Means, Hierarchical)
+Supervised: Regression, Random Forests, SVM, XGBoost
+Unsupervised: Clustering (K-Means, Hierarchical, DBSCAN), PCA, t-SNE
 
 **LLMs & NLP:**
-Retrieval Augmented Generation (RAG), TF-IDF
+Retrieval Augmented Generation (RAG), TF-IDF, Word Embeddings, Transformers
+
+**Computer Vision:**
+Image Classification
+
+**Data Science:**
+Data Cleaning, EDA, Model Evaluation
 
 ---
 
@@ -61,6 +70,7 @@ Retrieval Augmented Generation (RAG), TF-IDF
 
 ### Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -73,7 +83,9 @@ Retrieval Augmented Generation (RAG), TF-IDF
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+
 
 ## 🌐 Find Me
 
