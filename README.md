@@ -5,7 +5,7 @@
 </h3>
 
 
-<h4>
+<h4 align="center">
   CS'28 at FAST NUCES, Lahore
 </h4>
 
