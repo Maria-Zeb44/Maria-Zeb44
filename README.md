@@ -36,8 +36,39 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maria-Zeb44&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/Maria-Zeb44)
 
-</div>
 
+</div>
+<h6>Core Skills & Frameworks </h6>
+<div>
+<h5>AI & ML</h5>
+<h6>
+  Deep Learning:
+</h6>
+
+<p>
+  ANN, CNN, Transformers
+ 
+</p>
+<h6>
+  Machine Learning:
+</h6>
+
+<p>
+  Regression, Random Forests, Retrieval Augmented Generation (RAG), LLM  
+</p>
+
+<h6>
+  LLMs & NLP:
+</h6>
+
+<p>
+  Retrieval Augmented Generation (RAG), TF-IDF
+</p>
+  
+
+  
+  
+</div>
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) 
