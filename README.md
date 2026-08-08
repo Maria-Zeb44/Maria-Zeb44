@@ -40,11 +40,11 @@
 
 ### AI & ML
 
-**Deep Learning:**
+**Deep Learning:**<br>
 ANN, CNN, Transformers
 
 **Machine Learning:**
-Supervised: Regression, Random Forests
+Supervised: Regression, Random Forests<br>
 Unsupervised: Clustering (K-Means, Hierarchical)
 
 **LLMs & NLP:**
