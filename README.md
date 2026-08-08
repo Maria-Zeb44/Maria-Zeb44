@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maria-Zeb44&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Zeb44&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
 
 </div>
 
