@@ -38,13 +38,11 @@
 
 ## 🧠 Core Skills & Frameworks
 
-### AI & ML
-
 **Deep Learning:**
 ANN, CNN, Transformers
 
 **Machine Learning:**
-Regression, Random Forests, LLMs
+Regression, Random Forests, Clustering (K-Means, Hierarchical)
 
 **LLMs & NLP:**
 Retrieval Augmented Generation (RAG), TF-IDF
