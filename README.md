@@ -44,8 +44,8 @@
 ANN, CNN, Transformers
 
 **Machine Learning:**
-Supervised: Regression, Random Forests, SVM, XGBoost
-Unsupervised: Clustering (K-Means, Hierarchical, DBSCAN), PCA, t-SNE
+Supervised: Regression, Random Forests
+Unsupervised: Clustering (K-Means, Hierarchical)
 
 **LLMs & NLP:**
 Retrieval Augmented Generation (RAG), TF-IDF, Word Embeddings, Transformers
