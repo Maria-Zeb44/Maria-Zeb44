@@ -95,6 +95,7 @@ Data Cleaning, EDA, Model Evaluation
 
 </div>
 
-<div>
+***
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Maria-Zeb44)
-</div>
+
