@@ -23,7 +23,7 @@
 <div align="center">
 
 
-![Snake animation](https://github.com/Maria-Zeb44/Maria-Zeb44/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](activity-graph.svg)
 
 
 </div>
