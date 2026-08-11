@@ -1,26 +1,24 @@
-name: Update GitHub Stats SVG
+name: Update Activity Graph
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs hourly
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 */6 * * *'   # Runs every 6 hours
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
-      - name: Generate stats SVG
+      - name: Generate Activity Graph SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=Maria-Zeb44&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d1117" > stats.svg
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=Maria-Zeb44&theme=github-compact&hide_border=true&bg_color=0d1117" > activity-graph.svg
 
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats.svg
-          git diff --staged --quiet || git commit -m "Update stats SVG"
+          git add activity-graph.svg
+          git diff --staged --quiet || git commit -m "Update activity graph"
           git push
