@@ -23,9 +23,7 @@
 <div align="center">
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maria-Zeb44&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
+![Snake animation](https://github.com/Maria-Zeb44/Maria-Zeb44/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
